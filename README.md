@@ -11,4 +11,4 @@ Segundo curso de la formación Java Orientado a Objetos, del grupo G6 del curso 
 
 ### Proyecto final del curso:
 
-Crear la aplicacion Radio alura diferente a ScreenMatch, para practicar y profundizar tus comprensiones de los conceptos de abstracción, herencia, encapsulamiento y polimorfismo.
+Crear la aplicacion Radio alura diferente a ScreenMatch, para practicar y profundizar en los conceptos de abstracción, herencia, encapsulamiento y polimorfismo.
